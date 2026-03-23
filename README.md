@@ -16,6 +16,15 @@
   <img src="https://komarev.com/ghpvc/?username=DoraExarchou&style=for-the-badge&color=a960ff&labelColor=1a1b27" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/theodora-exarchou-a13294388/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:exarchoudora@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
