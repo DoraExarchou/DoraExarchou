@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/DoraExarchou?style=for-the-badge&logo=github&color=a960ff&labelColor=1a1b27" />
   </a>
   <a href="https://github.com/DoraExarchou?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-7-a960ff?style=for-the-badge&logo=github&labelColor=1a1b27" />
+    <img src="https://img.shields.io/badge/Repos-8-a960ff?style=for-the-badge&logo=github&labelColor=1a1b27" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=DoraExarchou&style=for-the-badge&color=a960ff&labelColor=1a1b27" />
 </p>
@@ -31,6 +31,7 @@ interests:
   - Embedded Systems
   - Parallel Processing
   - Digital VLSI Design
+  - Neural Networks & Deep Learning
 currently_learning: Always something new ✨
 ```
 
@@ -39,7 +40,7 @@ currently_learning: Always something new ✨
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,dart,flutter,c,html,css,react,nodejs,git,github,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,python,dart,flutter,c,html,css,react,nodejs,git,github,vscode&theme=dark&perline=6" />
 </p>
 
 ---
@@ -77,6 +78,19 @@ currently_learning: Always something new ✨
   </a>
   <a href="https://github.com/DoraExarchou/Digital-VLSI-Systems-NTUA">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoraExarchou&repo=Digital-VLSI-Systems-NTUA&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/DoraExarchou/Embedded-Systems--NTUA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoraExarchou&repo=Embedded-Systems--NTUA&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/DoraExarchou/Parallel-Processing-Systems--NTUA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoraExarchou&repo=Parallel-Processing-Systems--NTUA&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/DoraExarchou/Neural-Networks-and-Deep-Learning-NTUA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoraExarchou&repo=Neural-Networks-and-Deep-Learning-NTUA&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </p>
 
