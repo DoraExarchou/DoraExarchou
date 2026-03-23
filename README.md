@@ -1,60 +1,89 @@
-<h1 align="center">Hi there, I'm Theodora 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Theodora%20Exarchou&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
-  <em>Electrical & Computer Engineering Student @ NTUA 🎓</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&random=false&width=520&lines=ECE+Student+%40+NTUA+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Embedded+Systems+Enthusiast+%E2%9A%A1;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DoraExarchou">
-    <img src="https://img.shields.io/github/followers/DoraExarchou?label=Followers&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/DoraExarchou?tab=followers">
+    <img src="https://img.shields.io/github/followers/DoraExarchou?style=for-the-badge&logo=github&color=a960ff&labelColor=1a1b27" />
+  </a>
+  <a href="https://github.com/DoraExarchou?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-7-a960ff?style=for-the-badge&logo=github&labelColor=1a1b27" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=DoraExarchou&style=for-the-badge&color=a960ff&labelColor=1a1b27" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+```yaml
+name: Theodora Exarchou
+location: Athens, Greece 🇬🇷
+university: National Technical University of Athens (NTUA)
+department: Electrical & Computer Engineering
+interests:
+  - Software Engineering
+  - Human-Computer Interaction
+  - Embedded Systems
+  - Parallel Processing
+  - Digital VLSI Design
+currently_learning: Always something new ✨
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,dart,flutter,c,html,css,react,nodejs,git,github,vscode&theme=dark&perline=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DoraExarchou&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DoraExarchou&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoraExarchou&layout=donut&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoraExarchou&theme=tokyo-night&hide_border=true&border_radius=10&area=true" width="95%"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/DoraExarchou/Software-Engineering-NTUA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoraExarchou&repo=Software-Engineering-NTUA&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/DoraExarchou/Human-Computer-Interaction-NTUA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoraExarchou&repo=Human-Computer-Interaction-NTUA&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/DoraExarchou/Software-As-A-Service--NTUA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoraExarchou&repo=Software-As-A-Service--NTUA&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/DoraExarchou/Digital-VLSI-Systems-NTUA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DoraExarchou&repo=Digital-VLSI-Systems-NTUA&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoraExarchou&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoraExarchou&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoraExarchou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 📚 Featured Projects
-
-| Project | Description | Language |
-|---------|-------------|----------|
-| [Software-Engineering-NTUA](https://github.com/DoraExarchou/Software-Engineering-NTUA) | Software Engineering course project | JavaScript |
-| [Human-Computer-Interaction-NTUA](https://github.com/DoraExarchou/Human-Computer-Interaction-NTUA) | HCI course project | Dart |
-| [Software-As-A-Service--NTUA](https://github.com/DoraExarchou/Software-As-A-Service--NTUA) | SaaS course project | JavaScript |
-| [Digital-VLSI-Systems-NTUA](https://github.com/DoraExarchou/Digital-VLSI-Systems-NTUA) | Digital VLSI Systems course project | VHDL |
-| [Embedded-Systems--NTUA](https://github.com/DoraExarchou/Embedded-Systems--NTUA) | Embedded System Design labs | C |
-| [Parallel-Processing-Systems--NTUA](https://github.com/DoraExarchou/Parallel-Processing-Systems--NTUA) | Parallel Processing Systems | C |
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DoraExarchou&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
