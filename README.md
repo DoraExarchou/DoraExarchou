@@ -19,14 +19,12 @@
       alt="GitHub followers"
     />
   </a>
-
   <a href="https://github.com/DoraExarchou?tab=repositories">
     <img
       src="https://img.shields.io/badge/Repos-8-a960ff?style=for-the-badge&logo=github&labelColor=1a1b27"
       alt="Repositories"
     />
   </a>
-
   <img
     src="https://komarev.com/ghpvc/?username=DoraExarchou&style=for-the-badge&color=a960ff&labelColor=1a1b27"
     alt="Profile views"
@@ -40,7 +38,6 @@
       alt="LinkedIn"
     />
   </a>
-
   <a href="mailto:exarchoudora@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -183,7 +180,6 @@ currently_learning: Always something new ✨
       alt="LinkedIn"
     />
   </a>
-
   <a href="mailto:exarchoudora@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
