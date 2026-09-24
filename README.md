@@ -94,13 +94,19 @@ currently_learning: Always something new ✨
   />
 </p>
 
+## 📊 GitHub Activity
+
 <p align="center">
   <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DoraExarchou&theme=tokyo-night&hide_border=true&border_radius=10&area=true"
-    alt="GitHub Activity Graph"
+    width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DoraExarchou&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
   />
 </p>
+
+---
+
+## 🚀 Featured Projects
 
 ---
 
