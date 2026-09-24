@@ -106,119 +106,78 @@ currently_learning: Always something new ✨
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 Software Engineering</h3>
-      <p align="center">
-        <a href="https://github.com/DoraExarchou/Software-Engineering-NTUA">
-          <img
-            src="https://img.shields.io/badge/View%20Repository-a960ff?style=for-the-badge&logo=github&logoColor=white"
-            alt="Software Engineering repository"
-          />
-        </a>
-      </p>
-      <p align="center">
-        Software Engineering coursework and projects at NTUA.
-      </p>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3 align="center">🖥️ Human-Computer Interaction</h3>
-      <p align="center">
-        <a href="https://github.com/DoraExarchou/Human-Computer-Interaction-NTUA">
-          <img
-            src="https://img.shields.io/badge/View%20Repository-a960ff?style=for-the-badge&logo=github&logoColor=white"
-            alt="Human Computer Interaction repository"
-          />
-        </a>
-      </p>
-      <p align="center">
-        Human-Computer Interaction coursework and projects.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ Software as a Service</h3>
-      <p align="center">
-        <a href="https://github.com/DoraExarchou/Software-As-A-Service--NTUA">
-          <img
-            src="https://img.shields.io/badge/View%20Repository-a960ff?style=for-the-badge&logo=github&logoColor=white"
-            alt="Software as a Service repository"
-          />
-        </a>
-      </p>
-      <p align="center">
-        SaaS development and related university work.
-      </p>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Digital VLSI Systems</h3>
-      <p align="center">
-        <a href="https://github.com/DoraExarchou/Digital-VLSI-Systems-NTUA">
-          <img
-            src="https://img.shields.io/badge/View%20Repository-a960ff?style=for-the-badge&logo=github&logoColor=white"
-            alt="Digital VLSI Systems repository"
-          />
-        </a>
-      </p>
-      <p align="center">
-        Digital VLSI design and hardware-related projects.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔌 Embedded Systems</h3>
-      <p align="center">
-        <a href="https://github.com/DoraExarchou/Embedded-Systems--NTUA">
-          <img
-            src="https://img.shields.io/badge/View%20Repository-a960ff?style=for-the-badge&logo=github&logoColor=white"
-            alt="Embedded Systems repository"
-          />
-        </a>
-      </p>
-      <p align="center">
-        Embedded systems development and coursework.
-      </p>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3 align="center">🧵 Parallel Processing</h3>
-      <p align="center">
-        <a href="https://github.com/DoraExarchou/Parallel-Processing-Systems--NTUA">
-          <img
-            src="https://img.shields.io/badge/View%20Repository-a960ff?style=for-the-badge&logo=github&logoColor=white"
-            alt="Parallel Processing repository"
-          />
-        </a>
-      </p>
-      <p align="center">
-        Parallel processing systems and performance-oriented work.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🧠 Neural Networks & Deep Learning</h3>
-      <p align="center">
-        <a href="https://github.com/DoraExarchou/Neural-Networks-and-Deep-Learning-NTUA">
-          <img
-            src="https://img.shields.io/badge/View%20Repository-a960ff?style=for-the-badge&logo=github&logoColor=white"
-            alt="Neural Networks and Deep Learning repository"
-          />
-        </a>
-      </p>
-      <p align="center">
-        Neural Networks and Deep Learning coursework and projects.
-      </p>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">💻 Software Engineering</h3>
+<p align="center">
+<a href="https://github.com/DoraExarchou/Software-Engineering-NTUA">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineering"/>
+</a>
+</p>
+<p align="center">Software Engineering coursework and projects at NTUA.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🖥️ Human-Computer Interaction</h3>
+<p align="center">
+<a href="https://github.com/DoraExarchou/Human-Computer-Interaction-NTUA">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Human Computer Interaction"/>
+</a>
+</p>
+<p align="center">Human-Computer Interaction coursework and projects.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">☁️ Software as a Service</h3>
+<p align="center">
+<a href="https://github.com/DoraExarchou/Software-As-A-Service--NTUA">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Software as a Service"/>
+</a>
+</p>
+<p align="center">SaaS development and related university work.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">⚡ Digital VLSI Systems</h3>
+<p align="center">
+<a href="https://github.com/DoraExarchou/Digital-VLSI-Systems-NTUA">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Digital VLSI Systems"/>
+</a>
+</p>
+<p align="center">Digital VLSI design and hardware-related projects.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🔌 Embedded Systems</h3>
+<p align="center">
+<a href="https://github.com/DoraExarchou/Embedded-Systems--NTUA">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Embedded Systems"/>
+</a>
+</p>
+<p align="center">Embedded systems development and coursework.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🧵 Parallel Processing</h3>
+<p align="center">
+<a href="https://github.com/DoraExarchou/Parallel-Processing-Systems--NTUA">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Parallel Processing"/>
+</a>
+</p>
+<p align="center">Parallel processing systems and performance-oriented work.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3 align="center">🧠 Neural Networks & Deep Learning</h3>
+<p align="center">
+<a href="https://github.com/DoraExarchou/Neural-Networks-and-Deep-Learning-NTUA">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Neural Networks and Deep Learning"/>
+</a>
+</p>
+<p align="center">Neural Networks and Deep Learning coursework and projects.</p>
+</td>
+</tr>
 </table>
 
 ---
