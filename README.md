@@ -95,10 +95,11 @@ currently_learning: Always something new ✨
 
 ## 🚀 Featured Projects
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">💻 Software Engineering</h3>
+<p align="center"><b>💻 Software Engineering</b></p>
 <p align="center">
 <a href="https://github.com/DoraExarchou/Software-Engineering-NTUA">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineering"/>
@@ -107,7 +108,7 @@ currently_learning: Always something new ✨
 <p align="center">Software Engineering coursework and projects at NTUA.</p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🖥️ Human-Computer Interaction</h3>
+<p align="center"><b>🖥️ Human-Computer Interaction</b></p>
 <p align="center">
 <a href="https://github.com/DoraExarchou/Human-Computer-Interaction-NTUA">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Human Computer Interaction"/>
@@ -118,7 +119,7 @@ currently_learning: Always something new ✨
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">☁️ Software as a Service</h3>
+<p align="center"><b>☁️ Software as a Service</b></p>
 <p align="center">
 <a href="https://github.com/DoraExarchou/Software-As-A-Service--NTUA">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Software as a Service"/>
@@ -127,7 +128,7 @@ currently_learning: Always something new ✨
 <p align="center">SaaS development and related university work.</p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">⚡ Digital VLSI Systems</h3>
+<p align="center"><b>⚡ Digital VLSI Systems</b></p>
 <p align="center">
 <a href="https://github.com/DoraExarchou/Digital-VLSI-Systems-NTUA">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Digital VLSI Systems"/>
@@ -138,7 +139,7 @@ currently_learning: Always something new ✨
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🔌 Embedded Systems</h3>
+<p align="center"><b>🔌 Embedded Systems</b></p>
 <p align="center">
 <a href="https://github.com/DoraExarchou/Embedded-Systems--NTUA">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Embedded Systems"/>
@@ -147,7 +148,7 @@ currently_learning: Always something new ✨
 <p align="center">Embedded systems development and coursework.</p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🧵 Parallel Processing</h3>
+<p align="center"><b>🧵 Parallel Processing</b></p>
 <p align="center">
 <a href="https://github.com/DoraExarchou/Parallel-Processing-Systems--NTUA">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Parallel Processing"/>
@@ -158,7 +159,7 @@ currently_learning: Always something new ✨
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3 align="center">🧠 Neural Networks & Deep Learning</h3>
+<p align="center"><b>🧠 Neural Networks & Deep Learning</b></p>
 <p align="center">
 <a href="https://github.com/DoraExarchou/Neural-Networks-and-Deep-Learning-NTUA">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Neural Networks and Deep Learning"/>
@@ -168,6 +169,7 @@ currently_learning: Always something new ✨
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
